@@ -8,3 +8,4 @@ es.savefrom.net
 *.c3pool.org
 *.tiktok.com
 *.tiktok.com/*
+*.tiktokcdn.com
