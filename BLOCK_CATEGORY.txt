@@ -30,8 +30,8 @@ m.tiktok.com
 muscdn.com
 tiktokcdn.com
 tiktokcdn.com.c.worldfcdn.com
-(^|\.)muscdn\.com$
-(^|\.)musical\.ly$
+*.muscdn.com
+*.musical.ly
 tiktok.com
 www.tiktok.com
 api-h2.tiktokv.com
